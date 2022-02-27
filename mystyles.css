@@ -1,0 +1,11 @@
+table { border-collapse: collapse;}
+
+img.csc235logo { width: 180px; }
+
+td.csc235font { color: #990477; font-family: "Lucida Sans", Arial ; font-size: 20pt; font-style: italic ; text-shadow: 2px 6px 10px #0065FF; text-align:center; width:650px;}
+
+td.darkpurple { background-color: #191970; color:#FFF000; width: 15em; height: 35px; text-align: center; font-family: 'Arial'; border-left: 3px solid black; border-right: 3px solid black;}
+
+td.regularpurple { background-color: rgba(121, 128, 159); color:#FFFFFF; width: 15em; text-align: center; border-right: 3px solid black; font-family: 'Arial' ;}
+
+td.regularpurpleblank { background-image: linear-gradient(to bottom, rgba(121, 128, 159), rgba(95, 101, 135)); width: 16em; border-color: black}
