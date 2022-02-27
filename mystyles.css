@@ -9,3 +9,23 @@ td.darkpurple { background-color: #191970; color:#FFF000; width: 15em; height: 3
 td.regularpurple { background-color: rgba(121, 128, 159); color:#FFFFFF; width: 15em; text-align: center; border-right: 3px solid black; font-family: 'Arial' ;}
 
 td.regularpurpleblank { background-image: linear-gradient(to bottom, rgba(121, 128, 159), rgba(95, 101, 135)); width: 16em; border-color: black}
+
+th.titles { font-family: "Lucida Sans", Arial ; font-size: 10pt; text-align:left}
+
+td.regular_text { font-family:"Century"}
+
+div {border-collapse: collapse;}
+
+div.butterfly_showcase {background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
+
+div.blank_space {padding:10px;background-color: #eab8c3; width:336px}
+
+h1.Copyright_Text {padding-top:20px;padding-left:20px; font-family:"Calibri"; color:#FFF000; font-size:10pt}
+
+p.Subtext_Copyright {padding-left:20px; font-family:"Calibri"; color:#FFF000; font-size:8pt; width:220px;word-spacing: 2px;}
+
+div.blue_morpho {background-color:#eab8c3; border:dotted; width:350px; height: 415px}
+
+div.old_world {background-color:#eab8c3; border:dotted; width:350px; height: 465px}
+
+div.Copyright {background-image: url("./images/footer.jpg"); height: 125px;}
