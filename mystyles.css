@@ -18,6 +18,12 @@ div {}
 
 div.mission {float:right; background:linear-gradient(#f1e0b6 #ffffff); height:100%}
 
+div.latest_news {float:right;}
+
+div.butterfly_world {float:right;}
+
+img.tree {max-height:20%; max-width:30%}
+
 p.mission-state {padding-left:20px ; width:470px}
 
 
