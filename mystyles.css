@@ -14,7 +14,7 @@ th.titles { font-family: "Lucida Sans", Arial ; font-size: 10pt; text-align:left
 
 td.regular_text { font-family:"Century"}
 
-div {border-collapse: collapse;}
+div {}
 
 div.butterfly_showcase {background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
 
@@ -29,3 +29,5 @@ div.blue_morpho {background-color:#eab8c3; border:dotted; width:350px; height: 4
 div.old_world {background-color:#eab8c3; border:dotted; width:350px; height: 465px}
 
 div.Copyright {background-image: url("./images/footer.jpg"); height: 125px;}
+
+div.our_mission {}
