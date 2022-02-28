@@ -16,7 +16,7 @@ td.regular_text { font-family:"Century"}
 
 div {}
 
-div.butterfly_showcase {background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
+div.butterfly_showcase {margin-top:-22px; background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
 
 div.blank_space {padding:10px;background-color: #eab8c3; width:336px}
 
@@ -24,10 +24,9 @@ h1.Copyright_Text {padding-top:20px;padding-left:20px; font-family:"Calibri"; co
 
 p.Subtext_Copyright {padding-left:20px; font-family:"Calibri"; color:#FFF000; font-size:8pt; width:220px;word-spacing: 2px;}
 
-div.blue_morpho {background-color:#eab8c3; border:dotted; width:350px; height: 415px}
+div.blue_morpho {margin-top:-16px; background-color:#eab8c3; border:dotted; width:350px; height: 415px}
 
 div.old_world {background-color:#eab8c3; border:dotted; width:350px; height: 465px}
 
-div.Copyright {background-image: url("./images/footer.jpg"); height: 125px;}
+div.Copyright {margin-top:-10px; background-image: url("./images/footer.jpg"); height: 125px;}
 
-div.our_mission {}
