@@ -16,9 +16,20 @@ td.regular_text { font-family:"Century"}
 
 div {}
 
-div.butterfly_showcase {margin-top:-22px; background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
+div.mission {float:right; background:linear-gradient(#f1e0b6 #ffffff); height:100%}
+
+p.mission-state {padding-left:20px ; width:470px}
+
+
+h1.butterfly_text {letter-spacing: 3px ; font-family:"Calibri"; font-size:15pt; padding:20px;}
+
+img.Image {margin-left: 20px; max-width: 60% ; border:3px solid #dd3bd4;}
+
+div.butterfly_showcase {margin-top:-14px; background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
 
 div.blank_space {padding:10px;background-color: #eab8c3; width:336px}
+
+h1.title_text {padding-left: 20px; font-family: "Calibri"; letter-spacing: 2px; text-decoration: overline; font-size:12pt}
 
 h1.Copyright_Text {padding-top:20px;padding-left:20px; font-family:"Calibri"; color:#FFF000; font-size:10pt}
 
