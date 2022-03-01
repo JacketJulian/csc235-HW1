@@ -24,44 +24,52 @@ div.latest_news {float:right}
 
 div.butterfly_world {float:right}
 
-div.rounded_box {border-radius: 25px; background:#b9bfff; padding: 10px ; width: 210px; height: 130px}
+div.rounded_box {border-radius: 25px; background:#ddddff; margin-left: 60px ; padding: 10px ; width: 190px; height: 120px}
 
-p.Contact {padding-top: 20px; padding-left: 20px}
+p.Contact {padding-top: 0px; padding-left: 20px ; letter-spacing: 1px; } 
 
-img.tree {padding-left:20px; max-height:40%; max-width:100%}
+img.tree {margin-left:60px; max-height:30%; max-width:100% ; border:2px solid #a89694}
 
-p.mission-state {padding-left:20px ; width:470px}
+p.mission-state {padding-left:60px ; width:470px}
 
 
-h1.butterfly_text {letter-spacing: 3px ; font-family:"Calibri"; font-size:15pt; padding:20px;}
+h1.butterfly_text {letter-spacing: 3px ; font-family:"Calibri"; font-size:15pt; padding-top:10px ;padding-left:20px;}
+
+h1.mission {letter-spacing: 3px ; font-family:"Calibri"; font-size:15pt; padding-left:60px;}
 
 img.Image {margin-left: 20px; max-width: 60% ; border:3px solid #dd3bd4;}
 
-p.Butterfly_conservatory {padding-left:20px}
+p.Butterfly_conservatory {padding-bottom: 30px ;padding-left:20px}
 
-p.sub_purple_text {padding-left:20px; width:250px}
+span.grey {color:#a3a3a3}
 
-span.iosborn {font-family:Georgia ; font-weight: 600;}
+p.sub_purple_text {padding-left:20px; width:330px}
+
+span.iosborn {font-size: 10pt; font-family:Georgia ; font-weight: 600;}
 
 span.blue {font-family: Georgia ; font-weight: 600; color:#443ad7}
 
 span.dull_brown {font-family: Georgia ; font-weight: 600 ; color:#866359}
 
-p.copyright_symbol {padding-right:40px ;padding-top:50px;float:right}
+p.copyright_symbol {padding-right:-25px ;padding-top:50px;float:right}
 
-div.butterfly_showcase {margin-top:-15px; background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
+div.butterfly_showcase {margin-top:-14px; background-image:linear-gradient(#c177b1,#eab8c3); width:376px }
 
-div.blank_space {padding:10px;background-color: #eab8c3; width:336px}
+div.blank_space {padding:10px;background-color: #eab8c3; width:356px}
 
 h1.title_text {padding-left: 20px; font-family: "Calibri"; letter-spacing: 2px; text-decoration: overline; font-size:12pt}
+
+h1.title_right {padding-left: 60px; font-family: "Calibri"; letter-spacing: 2px; text-decoration: overline; font-size:12pt}
 
 h1.Copyright_Text {padding-top:20px;padding-left:20px; font-family:"Calibri"; color:#FFF000; font-size:10pt}
 
 p.Subtext_Copyright {padding-left:20px; font-family:"Calibri"; color:#FFF000; font-size:8pt; width:220px;word-spacing: 2px;}
 
-div.blue_morpho {margin-top:-16px; background-color:#eab8c3; border:dotted #853a3f; width:350px; height: 415px}
+div.blue_morpho {margin-top:-16px; background-color:#eab8c3; border:dotted #853a3f; width:370px; height: 415px}
 
-div.old_world {background-color:#eab8c3; border:dotted #853a3f; width:350px; height: 465px}
+div.old_world {background-color:#eab8c3; border:dotted #853a3f; width:370px; height: 465px}
 
 div.Copyright {margin-top:-10px; background-image: url("./images/footer.jpg"); height: 125px;}
+
+h1.data {padding-top: 10px ; padding-left: 20px; font-family: "Calibri"; letter-spacing: 2px; text-decoration: overline; font-size:12pt}
 
