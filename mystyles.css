@@ -18,11 +18,15 @@ div {}
 
 div.mission {float:right; background:linear-gradient(#f1e0b6 #ffffff); height:100%}
 
-div.latest_news {float:right;}
+div.latest_news {float:right}
 
-div.butterfly_world {float:right;}
+div.butterfly_world {float:right}
 
-img.tree {max-height:20%; max-width:30%}
+div.rounded_box {border-radius: 25px; background:#b9bfff; padding: 10px ; width: 210px; height: 130px}
+
+p.Contact {padding-top: 20px; padding-left: 20px}
+
+img.tree {padding-left:20px; max-height:40%; max-width:100%}
 
 p.mission-state {padding-left:20px ; width:470px}
 
@@ -31,7 +35,7 @@ h1.butterfly_text {letter-spacing: 3px ; font-family:"Calibri"; font-size:15pt; 
 
 img.Image {margin-left: 20px; max-width: 60% ; border:3px solid #dd3bd4;}
 
-div.butterfly_showcase {margin-top:-14px; background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
+div.butterfly_showcase {float:inherit; margin-top:-14px; background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
 
 div.blank_space {padding:10px;background-color: #eab8c3; width:336px}
 
