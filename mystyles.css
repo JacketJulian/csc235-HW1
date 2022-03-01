@@ -35,6 +35,8 @@ h1.butterfly_text {letter-spacing: 3px ; font-family:"Calibri"; font-size:15pt; 
 
 img.Image {margin-left: 20px; max-width: 60% ; border:3px solid #dd3bd4;}
 
+p.copyright_symbol {padding-right:30px ;padding-top:50px;float:right}
+
 div.butterfly_showcase {float:inherit; margin-top:-14px; background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
 
 div.blank_space {padding:10px;background-color: #eab8c3; width:336px}
