@@ -18,6 +18,8 @@ div {}
 
 div.mission {float:right; background:linear-gradient(#f1e0b6 #ffffff); height:100%}
 
+body {border: solid black 1px}
+
 div.latest_news {float:right}
 
 div.butterfly_world {float:right}
@@ -35,9 +37,14 @@ h1.butterfly_text {letter-spacing: 3px ; font-family:"Calibri"; font-size:15pt; 
 
 img.Image {margin-left: 20px; max-width: 60% ; border:3px solid #dd3bd4;}
 
-p.copyright_symbol {padding-right:30px ;padding-top:50px;float:right}
+p.Butterfly_conservatory {padding-left:20px}
 
-div.butterfly_showcase {float:inherit; margin-top:-14px; background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
+p.sub_purple_text {padding-left:20px; width:250px}
+
+
+p.copyright_symbol {padding-right:40px ;padding-top:50px;float:right}
+
+div.butterfly_showcase {margin-top:-15px; background-image:linear-gradient(#c177b1,#eab8c3); width:355px }
 
 div.blank_space {padding:10px;background-color: #eab8c3; width:336px}
 
