@@ -16,7 +16,7 @@ td.regular_text { font-family:"Century"}
 
 div {}
 
-div.mission {float:right; background:linear-gradient(#f1e0b6 #ffffff); height:100%}
+div.mission {float:right; background:linear-gradient(180deg,#f1e0b6,#ffffff 10%); height:100%}
 
 body {border: solid black 1px}
 
