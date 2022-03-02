@@ -16,7 +16,7 @@ td.regular_text { font-family:"Century"}
 
 div {}
 
-div.mission {float:right; background:linear-gradient(180deg,#f1e0b6,#ffffff 10%); height:100%}
+div.mission {float:right; background:linear-gradient(180deg,#f1e0b6,#ffffff 10%); height:80%}
 
 body {border: solid black 1px}
 
@@ -67,7 +67,7 @@ p.Subtext_Copyright {padding-left:20px; font-family:"Calibri"; color:#FFF000; fo
 
 div.blue_morpho {margin-top:-16px; background-color:#eab8c3; border:dotted #853a3f; width:370px; height: 415px}
 
-div.old_world {background-color:#eab8c3; border:dotted #853a3f; width:370px; height: 465px}
+div.old_world {background-color:#eab8c3; border:dotted #853a3f; width:370px; height: 385px}
 
 div.Copyright {margin-top:-10px; background-image: url("./images/footer.jpg"); height: 125px;}
 
